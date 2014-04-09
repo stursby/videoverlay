@@ -1,0 +1,23 @@
+{
+  "name": "videoverlay",
+  "version": "0.0.1",
+  "description": "Add custom image overlay to videos",
+  "main": "videoverlay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stursby/videoverlay.git"
+  },
+  "keywords": [
+    "video",
+    "overlay",
+    "videoverlay"
+  ],
+  "author": "Charlie Hield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stursby/videoverlay/issues"
+  }
+}
