@@ -1,0 +1,8 @@
+{
+    "globalstrict": true,
+    "boss": true,
+    "browser": true,
+    "globals": { 
+        "console": false
+    }
+}
